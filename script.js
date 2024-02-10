@@ -1,3 +1,6 @@
+document.addEventListener('DOMContentLoaded', (event) => {
+    console.log('test-script1');
+});
 
 
 window.addEventListener('load', (event) => {
